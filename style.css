@@ -72,12 +72,6 @@ footer h3 {
     margin-bottom: 0;
 }
 
-footer p a {
-    
-    color: ;
-}
-
-
 
 @media(min-width: 31.25rem) {
     #landing {
@@ -89,9 +83,7 @@ footer p a {
         height: 100vh;
     }
 
-    #landing-image {
-        height: 100vh;
-    }
+   
 }
 
 
